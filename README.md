@@ -1,4 +1,5 @@
 ## Hi there 👋
+## 🌱 I’m currently learning Backend Development (Golang - Path) on Boot.dev!
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/112f1e2e-38ba-4725-9fcb-8c6891ea26b3/thumbnail" >
